@@ -163,6 +163,9 @@
     <ClCompile Include="..\..\..\libs\openFrameworks\video\ofGstVideoPlayer.cpp">
       <Filter>addons\ofGstVideoPlayer</Filter>
     </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="src">
@@ -868,6 +871,9 @@
     </ClInclude>
     <ClInclude Include="..\..\..\libs\openFrameworks\video\ofGstVideoPlayer.h">
       <Filter>addons\ofGstVideoPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
